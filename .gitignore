@@ -7,6 +7,7 @@
 *.gz
 *.7z
 *.bz2
+*.part
 
 # ===========================
 # Archivos de backup y temporales
@@ -41,6 +42,7 @@ temp/
 wp-content/uploads/2024/02/CCE-Manifiesto-2023-online_16x9-V2.mp4
 wp-content/uploads/2024/02/CCE-Manifiesto-2023-online_1x1-V2.mp4
 wp-content/uploads/2025/04/CCE-Memoria-2024-Libro.pdf
+wp-content/wpvividbackups/*
 
 *.pdf
 
