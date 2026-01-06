@@ -1,0 +1,47 @@
+# ===========================
+# Archivos comprimidos
+# ===========================
+*.zip
+*.rar
+*.tar
+*.gz
+*.7z
+*.bz2
+
+# ===========================
+# Archivos de backup y temporales
+# ===========================
+*.bak
+*.old
+*.tmp
+*.swp
+*~
+*.orig
+
+# ===========================
+# Carpetas comunes de backups
+# ===========================
+backup/
+backups/
+tmp/
+temp/
+
+# ===========================
+# Logs
+# ===========================
+*.log
+
+# ===========================
+# Otros (si usas bases de datos locales)
+# ===========================
+*.sql
+*.sqlite
+*.db
+
+wp-content/uploads/2024/02/CCE-Manifiesto-2023-online_16x9-V2.mp4
+wp-content/uploads/2024/02/CCE-Manifiesto-2023-online_1x1-V2.mp4
+wp-content/uploads/2025/04/CCE-Memoria-2024-Libro.pdf
+
+*.pdf
+
+*.mp4
