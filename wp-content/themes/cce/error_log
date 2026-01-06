@@ -1,0 +1,108 @@
+[28-Apr-2024 00:26:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 16:25:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 16:25:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 16:38:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 16:43:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 16:43:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 16:43:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 16:43:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 16:43:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 16:43:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 16:43:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 16:43:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 16:43:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 16:43:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 16:43:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 16:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 18:38:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 18:38:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 20:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 20:52:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 20:52:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 20:52:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 20:52:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 20:53:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[19-Jun-2024 20:53:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[15-Sep-2025 22:55:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
+[18-Sep-2025 20:01:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ccepane1/public_html/wp-content/themes/cce/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ccepane1/public_html/wp-content/themes/cce/index.php on line 2
